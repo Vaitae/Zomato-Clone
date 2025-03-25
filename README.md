@@ -5,3 +5,8 @@ This is a clone of the Zomato website, created using HTML and CSS. The project i
 - `assets/` : Contains all the images, icons, and other media assets used in the project.
 - `index.html` 
 - `style.css`
+
+## Future Work
+- Implement media queries for full responsiveness
+- Enhance the UI with interactive elements
+- Add additional pages and features similar to Zomato
