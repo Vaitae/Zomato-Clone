@@ -1,5 +1,5 @@
 # Zomato-Clone
-This is a clone of the Zomato website, created using HTML and CSS. The project is aimed at replicating the layout and design of the Zomato Landing Page, and I am currently working on making it fully responsive using media queries.
+This is a clone of the Zomato website, created using HTML and CSS. The project is aimed at replicating the layout and design of the Zomato Landing Page.
 
 ## Project Structure
 - `assets/` : Contains all the images, icons, and other media assets used in the project.
@@ -7,6 +7,5 @@ This is a clone of the Zomato website, created using HTML and CSS. The project i
 - `style.css`
 
 ## Future Work
-- Implement media queries for full responsiveness
 - Enhance the UI with interactive elements
 - Add additional pages and features similar to Zomato
