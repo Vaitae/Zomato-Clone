@@ -330,7 +330,6 @@ nav a {
   background: rgb(255, 250, 246);
   width: 100%;
   height: 450px;
- 
 }
 
 .semi-container {
@@ -473,14 +472,14 @@ nav a {
 /*End of get-app*/
 
 /*Explore Options*/
-.explore-container{
+.explore-container {
   color: rgb(22, 22, 22);
   background: #fdfdfd;
   padding-bottom: 5%;
 }
 
-.explore-container h1{
-  padding:9%;
+.explore-container h1 {
+  padding: 9%;
   padding-top: 5%;
   padding-bottom: 0.5%;
   font-size: 34px;
@@ -490,9 +489,9 @@ nav a {
   font-weight: 400;
 }
 
-details{
-  cursor:pointer;
-  font-size:19px;
+details {
+  cursor: pointer;
+  font-size: 19px;
   color: #242424;
   padding: 1.65%;
   margin: 9%;
@@ -503,22 +502,22 @@ details{
   border-radius: 8px;
 }
 
-.details-list{
+.details-list {
   padding: 1%;
   margin: 1%;
 }
 
-.details-list ul{
+.details-list ul {
   display: flex;
   flex-wrap: wrap;
 }
 
-.details-list a{
+.details-list a {
   text-decoration: none;
 }
 
-.details-list ul li{
-  list-style:none;
+.details-list ul li {
+  list-style: none;
   font-size: 16px;
   margin-left: 4px;
   margin-right: 4px;
@@ -527,11 +526,11 @@ details{
   color: gray;
 }
 
-.details-list a :hover{
+.details-list a :hover {
   color: black;
 }
 
-.details-list ul #all-cities{
+.details-list ul #all-cities {
   text-decoration: underline;
   color: black;
   font-weight: 400;
@@ -540,32 +539,32 @@ details{
 
 /*Footer*/
 
-footer{
-  height:470px;
+footer {
+  height: 470px;
   width: 100%;
   background-color: #f7f7f7;
 }
 
-.on-left img{
+.on-left img {
   cursor: pointer;
 }
 
-.footer .row-1{
+.footer .row-1 {
   display: flex;
   justify-content: space-between;
   margin: 0% 9% 0% 9%;
-  padding-top: 4% ;
+  padding-top: 4%;
 }
-.on-right{
+.on-right {
   display: flex;
   justify-content: space-evenly;
   width: 30%;
   align-items: center;
 }
 
-select{
+select {
   height: 40px;
-  width:150px;
+  width: 150px;
   background-color: #fbfbfb;
   border: 1px solid #b4b4b4;
   border-radius: 8px;
@@ -574,7 +573,7 @@ select{
   cursor: pointer;
 }
 
-.column-container{
+.column-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -584,7 +583,7 @@ select{
   margin-bottom: 1%;
 }
 
-.col{
+.col {
   height: 250px;
   position: relative;
   margin-left: 5%;
@@ -592,41 +591,41 @@ select{
   margin-top: 0;
 }
 
-.col h4{
+.col h4 {
   font-weight: 400;
   margin-bottom: 2%;
   letter-spacing: 0.5px;
   font-size: 15px;
 }
 
-.col li{
+.col li {
   list-style: none;
   color: #5c5c5c;
   font-size: 14px;
 }
 
-.col a{
+.col a {
   text-decoration: none;
 }
 
-.col li:hover{
+.col li:hover {
   color: black;
 }
-.column-container{
+.column-container {
   border-bottom: 1px solid #8a8a8a;
 }
-.TC{
+.TC {
   margin-left: 9%;
   margin-right: 9%;
   margin-top: 0;
   margin-bottom: 25px;
 }
-.TC p{
+.TC p {
   padding: 1%;
   font-size: 12px;
-  color:#242424;
+  color: #242424;
 }
 
-.social-links{
-  cursor:pointer;
+.social-links {
+  cursor: pointer;
 }
