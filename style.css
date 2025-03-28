@@ -526,6 +526,10 @@ details {
   color: gray;
 }
 
+.list ul li::after {
+  content: " near me • ";
+}
+
 .details-list a :hover {
   color: black;
 }
@@ -562,10 +566,10 @@ footer {
   align-items: center;
 }
 
-select {
+.select-nationality, .select-language{
   height: 40px;
   width: 150px;
-  background-color: #fbfbfb;
+  background-color: #f7f7f7;
   border: 1px solid #b4b4b4;
   border-radius: 8px;
   font-size: 18px;
@@ -626,7 +630,6 @@ select {
   color: #242424;
 }
 
-.social-links {
+.social-links img{
   cursor: pointer;
 }
-/*End of Footer*/
