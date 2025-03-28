@@ -566,7 +566,8 @@ footer {
   align-items: center;
 }
 
-.select-nationality, .select-language{
+.select-nationality,
+.select-language {
   height: 40px;
   width: 150px;
   background-color: #f7f7f7;
@@ -630,6 +631,6 @@ footer {
   color: #242424;
 }
 
-.social-links img{
+.social-links img {
   cursor: pointer;
 }
